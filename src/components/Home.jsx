@@ -46,7 +46,7 @@ const Home = () => {
             className="p-3 rounded-xl bg-gray-800 text-white border border-gray-700 focus:outline-none focus:ring-2 focus:ring-purple-500"
             value={title}
             onChange={(e) => setTitle(e.target.value)}
-            placeholder="Enter title"
+            placeholder="Enter cdtitle"
           />
         </div>
 
